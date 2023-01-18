@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @CassioJhones
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning Javascript at ALURA
 - 💞️ I’m looking for a Job
-- 📫 How to reach me instagram and facebook Cássio Jhones
+- 📫 find me at instagram and facebook
+- Cássio Jhones
 
 <!---
 CassioJhones/CassioJhones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
