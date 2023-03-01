@@ -1,12 +1,13 @@
-# Olá, sou o Cássio Jhones
+# Hello! Thanks for visiting me.
 I'm 24 years old, married, Brazilian, from the interior of São Paulo.
 Currently studying the Java language at a DIO bootcamp in partnership with the Pan bank.
 I studied computer engineering for four years, I'm looking for a job in the area and trying to improve myself every day with technologies.
 Student at Alura school since 2022, improving my Javascript and front-end skills.
 
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5)](https://github.com/CassioJhones)
-  ![Cássio Jhones GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true" height="190em"/>
+</div>
 
 
 ### Take a look!  |  Dá uma olhada!
