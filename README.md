@@ -11,6 +11,23 @@ Student at Alura school since 2022, improving my Javascript and front-end skills
   <img src="https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true" height="190em"/>
 </div>
 
+##
+
+<div style="display:inline-block; width=100px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60em"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="60em"/>
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CassioJhones&bg_color=0a0f0b&color=abd200&line=68b587&point=b7d364&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Take a look!  |  Dá uma olhada!
 <a href="https://github.com/CassioJhones/AboutMe">
@@ -19,21 +36,3 @@ Student at Alura school since 2022, improving my Javascript and front-end skills
 <a href="https://github.com/CassioJhones/Robotron">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=Robotron&theme=merko" />
 </a>
-
-##
-
-<div style="display:inline-block; width=100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60em"/>
-Learning
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="60em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="60em"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="60em"/>         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="60em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="60em"/>
-
-          
-</div>
