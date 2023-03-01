@@ -4,8 +4,10 @@ Currently studying the Java language at a DIO bootcamp in partnership with the P
 I studied computer engineering for four years, I'm looking for a job in the area and trying to improve myself every day with technologies.
 Student at Alura school since 2022, improving my Javascript and front-end skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko)](https://github.com/CassioJhones)
-![Cássio Jhones GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5)](https://github.com/CassioJhones)
+  ![Cássio Jhones GitHub stats](https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true)
+
 
 ### Take a look!  |  Dá uma olhada!
 <a href="https://github.com/CassioJhones/AboutMe">
