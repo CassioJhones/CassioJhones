@@ -22,7 +22,7 @@
 ###
 
 <div> <!-- --TOP LANGS--TOP LANGS-- -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=6" height="190em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true" height="190em"/>
 </div> <!-- --TOP LANGS--TOP LANGS-- -->
 
