@@ -1,5 +1,5 @@
 # Hello! Thanks for visiting me.
-I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootcamp in partnership with the Pan bank. I studied computer engineering for four years, I'm looking for a job in the area and trying to improve myself every day with technologies. Student at Alura school since 2022, improving my Javascript and front-end skills.
+I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootcamp in partnership with the Pan bank. I studied computer engineering for four years, I'm looking for a job in the area and trying to improve myself every day with technologies. Student at Alura school since 2022, improving my Javascript, backend and frontend skills.
 
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/sr.jhones_/" target="_blank"> 
