@@ -26,11 +26,42 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 </div> <!-- --TOP LANGS--TOP LANGS-- -->
 
 ###
+ 
+<!-- --HABILITY-- --HABILITY-- -->
+<div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
+  
+  ## ----- Technologies and Tools ----- 
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70em" />
+         
+</div>
+<!-- --HABILITY-- --HABILITY-- -->
 
+<!-- --SETUP-- --SETUP-- -->
+<div align="center">
+  
+  ### ----- Setup -----
+  
+  <img src="https://img.shields.io/badge/Windows_10-Samsung_Expert_-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Intel-Core_i5_7th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_920MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  
+</div>
+<!-- --SETUP-- --SETUP-- -->
 <!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
+
 <div align="center">
   
 ### Take a look!  |  Dá uma olhada!
+  
 <a href="https://github.com/CassioJhones/AboutMe" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=AboutMe&theme=merko" /> </a>
 
@@ -39,31 +70,3 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
   
 </div>
 <!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
-
-### 
- 
-<!-- --HABILITY-- --HABILITY-- -->
-<div align="center">
-  
-  ## Skills
-  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white " />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white " />
-  
-</div>
-<!-- --HABILITY-- --HABILITY-- -->
-
-<!-- --SETUP-- --SETUP-- -->
-<div align="center">
-  
-  ### My Little Setup
-  
-  <img src="https://img.shields.io/badge/Windows_10-Samsung_Expert_-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Intel-Core_i5_7th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_920MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  
-</div>
-<!-- --SETUP-- --SETUP-- -->
