@@ -69,5 +69,11 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 <a href="https://github.com/CassioJhones/Robotron" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=Robotron&theme=merko" /> </a>
   
+<a href="https://github.com/CassioJhones/JS_BrowserData" align="center">
+<img align="center" src="https://github.com/CassioJhones/JS_BrowserData" /> </a>
+  
+<a href="https://github.com/CassioJhones/JS_SecretNumber" align="center">
+<img align="center" src="https://js-secret-number.vercel.app/" /> </a>
+  
 </div>
 <!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
