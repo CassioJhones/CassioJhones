@@ -28,8 +28,7 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 ###
  
 <!-- --HABILITY-- --HABILITY-- -->
-<div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
-  
+<div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   ## ----- Technologies and Tools ----- 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70em"/>
@@ -71,10 +70,10 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 </div>
 <div align="center">
 <a href="https://github.com/CassioJhones/JS_BrowserData" align="center">
-<img align="center" src="https://github.com/CassioJhones/JS_BrowserData" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_BrowserData&theme=merko" /> </a>
   
 <a href="https://github.com/CassioJhones/JS_SecretNumber" align="center">
-<img align="center" src="https://js-secret-number.vercel.app/" /> </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_SecretNumber&theme=merko" /> </a>
   
 </div>
 <!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
