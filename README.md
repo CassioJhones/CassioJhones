@@ -1,5 +1,6 @@
 # Hello! Thanks for visiting me.
-I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootcamp in partnership with the Pan bank. I studied computer engineering for four years, I'm looking for a job in the area and trying to improve myself every day with technologies. Student at Alura school since 2022, improving my Javascript, backend and frontend skills.
+I'm 24 years old, Brazilian. My interest is in back-end as well as front-end development, and I have been actively seeking new knowledge through college and related online courses.
+I am currently studying Systems Analysis and Development at Universidade Paulista (UNIP) and am looking forward to applying my knowledge and skills in a professional environment.
 
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/sr.jhones_/" target="_blank"> 
@@ -29,7 +30,8 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
  
 <!-- --HABILITY-- --HABILITY-- -->
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
-  ## ----- Technologies and Tools ----- 
+  
+## ----- Technologies and Tools ----- 
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70em"/>
@@ -39,7 +41,7 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="70em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="70em" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70em" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70em" />
          
 </div>
@@ -58,7 +60,7 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 <!-- --SETUP-- --SETUP-- -->
 <!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
 
-<div align="center">
+<div align="center" style="gap:1em 1em;">
   
 ### Take a look!  |  Dá uma olhada!
   
@@ -68,11 +70,11 @@ I'm 24 years old, Brazilian. Currently studying the Java language at a DIO bootc
 <a href="https://github.com/CassioJhones/Robotron" align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=Robotron&theme=merko" /> </a>
 </div>
-<div align="center">
-<a href="https://github.com/CassioJhones/JS_BrowserData" align="center">
+<div align="center" style="gap:1em 1em;">
+<a href="https://github.com/CassioJhones/JS_BrowserData" align="center" style="gap:1em 1em;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_BrowserData&theme=merko" /> </a>
   
-<a href="https://github.com/CassioJhones/JS_SecretNumber" align="center">
+<a href="https://github.com/CassioJhones/JS_SecretNumber" align="center" style="gap:1em 1em;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_SecretNumber&theme=merko" /> </a>
   
 </div>
