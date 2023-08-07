@@ -11,9 +11,6 @@ I am currently studying Systems Analysis and Development at Universidade Paulist
   
   <a href="https://www.linkedin.com/in/cassio-bjhones/" target="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-
-  <a href="https://twitter.com/Sr_Jhones_" target="_blank"> 
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
   
   <a href="https://www.behance.net/newwaydesign?tracking_source=search_users|NEW%20WAY%20DESIGN" target="_blank">
   <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" > </a>
@@ -33,13 +30,12 @@ I am currently studying Systems Analysis and Development at Universidade Paulist
   
 ## ----- Technologies and Tools ----- 
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70em" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70em" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" />
          
 </div>
 <!-- --HABILITY-- --HABILITY-- -->
@@ -55,24 +51,3 @@ I am currently studying Systems Analysis and Development at Universidade Paulist
   
 </div>
 <!-- --SETUP-- --SETUP-- -->
-<!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
-
-<div align="center" style="gap:1em 1em;">
-  
-### Take a look!  |  Dá uma olhada!
-  
-<a href="https://github.com/CassioJhones/AboutMe" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=AboutMe&theme=merko" /> </a>
-
-<a href="https://github.com/CassioJhones/Robotron" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=Robotron&theme=merko" /> </a>
-</div>
-<div align="center" style="gap:1em 1em;">
-<a href="https://github.com/CassioJhones/JS_BrowserData" align="center" style="gap:1em 1em;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_BrowserData&theme=merko" /> </a>
-  
-<a href="https://github.com/CassioJhones/JS_SecretNumber" align="center" style="gap:1em 1em;">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CassioJhones&repo=JS_SecretNumber&theme=merko" /> </a>
-  
-</div>
-<!-- --REPOS EXTRAS----REPOS EXTRAS-- -->
