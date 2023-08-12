@@ -1,4 +1,4 @@
-# Hello! Thanks for visiting me.
+# Welcome to my github
 I'm 24 years old, Brazilian. My interest is in back-end as well as front-end development, and I have been actively seeking new knowledge through college and related online courses.
 I am currently studying Systems Analysis and Development at Universidade Paulista (UNIP) and am looking forward to applying my knowledge and skills in a professional environment.
 
