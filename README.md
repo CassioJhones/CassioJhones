@@ -1,6 +1,5 @@
 # Welcome to my github
-I'm 24 years old, Brazilian. My interest is in back-end as well as front-end development, and I have been actively seeking new knowledge through college and related online courses.
-I am currently studying Systems Analysis and Development at Universidade Paulista (UNIP) and am looking forward to applying my knowledge and skills in a professional environment.
+Currently graduating in Systems Analysis and Development and working as an intern in the development sector of the company Agger
 
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/sr.jhones_/" target="_blank"> 
