@@ -1,4 +1,4 @@
-# Welcome to my github
+# Welcome
 Currently graduating in Systems Analysis and Development and working as an intern in the development sector of the company Agger
 
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
