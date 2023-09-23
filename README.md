@@ -1,5 +1,6 @@
 # Welcome
-Currently graduating in Systems Analysis and Development and working as an intern in the development sector of the company Agger
+* Currently graduating in Systems Analysis and Development
+* working as an intern in the development sector of the company Agger
 
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/sr.jhones_/" target="_blank"> 
@@ -18,7 +19,7 @@ Currently graduating in Systems Analysis and Development and working as an inter
 ###
 
 <div align="center"> <!-- --TOP LANGS--TOP LANGS-- -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=8" height="190em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="190em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true" height="190em"/>
 </div> <!-- --TOP LANGS--TOP LANGS-- -->
 
@@ -36,19 +37,7 @@ Currently graduating in Systems Analysis and Development and working as an inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" />
-       
-         
+             
 </div>
 <!-- --HABILITY-- --HABILITY-- -->
 
-<!-- --SETUP-- --SETUP-- -->
-<div align="center">
-  
-  ### ----- Setup -----
-  
-  <img src="https://img.shields.io/badge/Windows_10-Samsung_Expert_-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Intel-Core_i5_7th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-GEFORCE_920MX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  
-</div>
-<!-- --SETUP-- --SETUP-- -->
