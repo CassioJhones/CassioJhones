@@ -19,9 +19,9 @@
 ###
 
 <div align="center"> <!-- --TOP LANGS--TOP LANGS-- -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="190em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=CassioJhones&show_icons=true&theme=merko&count_private=true" height="190em"/>
-</div> <!-- --TOP LANGS--TOP LANGS-- -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="170em"/>
+ 
+</div>
 
 ###
  
@@ -39,5 +39,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" />
              
 </div>
-<!-- --HABILITY-- --HABILITY-- -->
-
