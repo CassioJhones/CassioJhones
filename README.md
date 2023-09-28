@@ -20,11 +20,9 @@
 
 <div align="center"> <!-- --TOP LANGS--TOP LANGS-- -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="170em"/>
- 
 </div>
 
 ###
- 
 <!-- --HABILITY-- --HABILITY-- -->
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   
