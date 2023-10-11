@@ -2,6 +2,12 @@
 * Currently graduating in Systems Analysis and Development
 * working as an intern in the development sector of the company Agger
 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=CassioJhones&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs,prs&custom_title=Statistics" height="150em"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&hide=javascript,html,css&layout=compact&theme=codeSTACKr" height="150em"/>
+</div>
+
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/sr.jhones_/" target="_blank"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -17,23 +23,15 @@
 </div>
 
 ###
-
-<div align="center"> <!-- --TOP LANGS--TOP LANGS-- -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&layout=compact&theme=merko&langs_count=5" height="170em"/>
-</div>
-
-###
 <!-- --HABILITY-- --HABILITY-- -->
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   
 ## ----- Technologies and Tools ----- 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" />
-             
+<p align="center">
+  <a href="https://github.com/CassioJhones">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,java,visualstudio,git" />
+  </a>
+</p>
+
 </div>
