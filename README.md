@@ -26,11 +26,11 @@
 <!-- --HABILITY-- --HABILITY-- -->
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   
-## ----- Technologies and Tools ----- 
+## ----- Working with ----- 
 
 <p align="center">
   <a href="https://github.com/CassioJhones">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,java,visualstudio,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" />
   </a>
 </p>
 
