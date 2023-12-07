@@ -1,6 +1,6 @@
 # Welcome
-* Currently graduating in Systems Analysis and Development
-* working as an intern in the development sector of the company Agger
+- Finishing my studies in Systems Analysis and Development.
+- Working as a .Net Developer in the city of Rio Claro.
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=CassioJhones&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs,prs&custom_title=Statistics" height="150em"/>
