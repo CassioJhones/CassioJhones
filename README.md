@@ -1,4 +1,7 @@
 # Welcome
+[![github](https://img.shields.io/github/followers/CassioJhones?logo=github&style=for-the-badge)](https://github.com/CassioJhones?tab=followers)  <a href="https://wakatime.com/@74ae1ab7-b54f-4962-bcef-7d24654719ce">
+<img src="https://wakatime.com/badge/user/74ae1ab7-b54f-4962-bcef-7d24654719ce.svg?style=for-the-badge" alt="Total time coded since Mar 1 2023" />
+</a>
 - Finishing my studies in Systems Analysis and Development.
 - Working as a .Net Developer in the city of Rio Claro.
 
