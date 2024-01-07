@@ -40,7 +40,7 @@
 
 <p align="center">
 <h2> --- My Last Bootcamp--- </h2>
-<img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="150px" align="center">
+<img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="120px" align="center">
 </p>
 
 </div>
