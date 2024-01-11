@@ -7,7 +7,6 @@
 - Working as .Net Developer in the city of Rio Claro.
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CassioJhones&theme=codeSTACKr&include_all_commits=true&show_icons=true&rank_icon=github&hide=contribs,prs&custom_title=Statistics" height="150em"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&hide=javascript,html,css&layout=compact&theme=codeSTACKr" height="150em"/>
 </div>
@@ -40,7 +39,10 @@
 
 <p align="center">
 <h2> --- My Last Bootcamp--- </h2>
+  
 <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="120px" align="center">
+<img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/1aa33ef8-9408-436f-9b1c-5a8643cda3d4" width="120px" align="center">
+
 </p>
 
 </div>
