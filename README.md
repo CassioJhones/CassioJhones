@@ -10,7 +10,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&hide=javascript,html,css&layout=compact&theme=codeSTACKr" height="150em"/>
 </div>
-
+<br/>
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/cassiojho/" target="_blank"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
@@ -26,19 +26,15 @@
 </div>
 
 ###
-<!-- --HABILITY-- --HABILITY-- -->
+<!-- --STACKS-- --STACKS-- -->
 <div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   
-## ----- Working with -----
+### -----| Working with |-----
 
-<p align="center">
-  <a href="https://github.com/CassioJhones">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" />
-  </a>
-</p>
+<p align="center"> <a href="#"> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" /> </a> </p>
 
+### ---| Last Bootcamp |---
 <p align="center">
-<h2> --- My Last Bootcamp--- </h2>
   
 <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="120px" align="center">
 <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/1aa33ef8-9408-436f-9b1c-5a8643cda3d4" width="120px" align="center">
@@ -46,3 +42,8 @@
 </p>
 
 </div>
+
+<!--  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=74ae1ab7-b54f-4962-bcef-7d24654719ce)](https://github.com/CassioJhones/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+-->
