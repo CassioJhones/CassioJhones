@@ -6,7 +6,7 @@
 - Finishing my studies in Systems Analysis and Development.
 - Working as .Net Developer in the city of Rio Claro.
 
-<div align="center">
+<div align="left">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioJhones&hide=javascript,html,css&layout=compact&theme=codeSTACKr" height="150em"/>.
 <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="120px" align="center">
@@ -16,7 +16,7 @@
 
 </div>
 <br/>
-<div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
+<div align="left" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
   <a href="https://www.instagram.com/cassiojho/" target="_blank"> 
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
@@ -32,11 +32,11 @@
 
 ###
 <!-- --STACKS-- --STACKS-- -->
-<div align="center" style="display:flex; gap:1em; align-items:center; justify-content:center">  
+<div align="left" style="display:flex; gap:1em; align-items:center; justify-content:center">  
   
 ### -----| Working with |-----
 
-<p align="center"> <a href="#"> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" /> </a> </p>
+<p align="left"> <a href="#"> <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git" /> </a> </p>
 
 <!--
 ### ---| Last Bootcamp |---
