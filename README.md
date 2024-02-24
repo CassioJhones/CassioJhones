@@ -1,8 +1,10 @@
 # Welcome
 
+Since always, my passion for technology and learning drives me to pursue excellence in software development. Currently, I am completing my degree in Analysis and Systems Development, seizing every opportunity to enhance my programming skills.
 
-- Finishing my studies in Systems Analysis and Development.
-- Working as .Net Developer in the city of Rio Claro.
+Actively participating in events, bootcamps, and courses has been crucial for my professional growth. This not only complements my formal education but also shapes my practical approach to solving complex problems in my workplace.
+
+I have a primary focus on the C# language and have dedicated myself to the .Net ecosystem as a backend developer, where I daily turn problems and challenges into robust solutions.
 
 <div align="left">
 
