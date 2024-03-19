@@ -17,17 +17,10 @@ I have a primary focus on the C# language and have dedicated myself to the .Net 
 </div>
 <br/>
 <div align="left" style="display:flex; gap:1em; align-items:center; justify-content:center"> 
-  <a href="https://www.instagram.com/cassiojho/" target="_blank"> 
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
   <a href="https://www.codewars.com/users/CassioJhones" target="_blank"> 
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black"> </a>
   
-  <a href="https://www.linkedin.com/in/cassio-bjhones/" target="_blank"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  
-  <a href="https://www.behance.net/newwaydesign?tracking_source=search_users|NEW%20WAY%20DESIGN" target="_blank">
-  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" > </a>
 </div>
 
 ###
