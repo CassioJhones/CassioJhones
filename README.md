@@ -2,9 +2,10 @@
 | ----------- | ----------- |
 
 I'm currently completing my degree in Systems Analysis and Development, seizing every opportunity to enhance my programming skills. Participating in events, bootcamps, and courses has been crucial for my professional growth, not only complementing my education but also shaping my approach to problem-solving in the workplace. My main focus is on the C# language, and I've been dedicated to the .Net ecosystem as a backend developer.
-
+## DIO Badges
 <div align="left">
   <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/3169d566-34df-4ec0-9e25-251a7ef769cc" width="120px" align="center">
+  <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/f74f229f-fad9-4c6c-90a4-c82c57eecd70" width="120px" align="center">
   <img src="https://github.com/CassioJhones/CassioJhones/assets/56178855/1aa33ef8-9408-436f-9b1c-5a8643cda3d4" width="120px" align="center">
 </div>
 
